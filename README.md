@@ -1,4 +1,5 @@
 # Enterprise Generative AI Threat Landscape & Risk Assessment
+> **Analyst Role & Scope:** I acted as a Cyber Threat Intelligence (CTI) Analyst for this project, aggregating open-source intelligence on Large Language Model vulnerabilities to assess corporate risk vectors against enterprise data perimeters.
 
 ## Project Overview
 This repository contains a non-coding, research-driven Cyber Threat Intelligence (CTI) assessment report. The objective of this project was to analyze the architectural vulnerabilities introduced when integrating Large Language Models (LLMs) into corporate enterprise environments, mapping threats against modern defense matrices and governance frameworks.
